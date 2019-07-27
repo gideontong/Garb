@@ -1,3 +1,9 @@
 
 garb/package-lock.json
 .vscode/settings.json
+garb/yarn-error.log
+garb/node_modules/**/*
+garb/.expo/*
+garb/npm-debug.*
+garb/package-lock.json
+garb/yarn.lock

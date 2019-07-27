@@ -10,14 +10,12 @@ Garb was built with React Native for both iOS and Android devices. It uses Optic
 
 Garb requires [Node 10.15.3](https://nodejs.org/en/download/current/), and an API key for [Google Cloud Vision](https://cloud.google.com/vision/). After cloning the repository into the working directly, use the following _npm_ commands:
 
-```
->npm install
->npm start
+```bash
+$ npm install
+$ npm start
 ```
 
 The development server should kick off with no problems.
-
-
 
 ### Further Improvements
 
@@ -25,4 +23,6 @@ Garb represents images using a base-64 encoded string, and as such, the API take
 
 ### Credits
 
-Garb was developed by [Gideon Tong](https://github.com/gideontong), [Daisy Chen](https://github.com/Justawayx), [Nora Zhou](https://github.com/Nonus99), and [James Wang](https://github.com/jamesbwang) for [LA Hacks 2019](https://lahacks.com/). Garb was submitted for the best sustainability hack, and the best use of the Google Cloud API.
+The current repository is only maintained by Gideon Tong, who can be reached via the email address in the GitHub profile page. Security, bug fixes, and feature improvements are released as they are developed.
+
+Garb was initially developed by [Gideon Tong](https://github.com/gideontong), [Daisy Chen](https://github.com/Justawayx), [Nora Zhou](https://github.com/Nonus99), and [James Wang](https://github.com/jamesbwang) for [LA Hacks 2019](https://lahacks.com/). Garb was submitted for the best sustainability hack, and the best use of the Google Cloud API.
